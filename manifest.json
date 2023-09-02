@@ -3,18 +3,18 @@
     "short_name": "jogo da velha",
     "icons": [
         {
-            "src": "images/images.png",
+            "src": "images/blockchain (1).png",
             "sizes": "256x256",
             "type": "image/png"
         },
         {
-            "src": "images/images512.png",
+            "src": "images/blockchain.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "images/img196.png",
-            "sizes": "196x196",
+            "src": "images/blockchain.png",
+            "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
         }

@@ -1,18 +1,18 @@
-.html{
-    min-height: 100%;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-}
-
-button.click{
-    width: 70px;
-    height: 70px;
-    
+*{
+    background-color: rgb(39, 39, 39);
 }
 
 div.jogo{
+    display: inline;
+    margin: auto;
+    justify-content: center;
     align-items: center;
+}
+
+.click{
+    width: 70px;
+    height: 70px;
+    background-color: rgb(117, 117, 117);
 }
 
 .quadro{
