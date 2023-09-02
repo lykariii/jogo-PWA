@@ -1,0 +1,20 @@
+.html{
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+button.click{
+    width: 70px;
+    height: 70px;
+    
+}
+
+div.jogo{
+    align-items: center;
+}
+
+.quadro{
+    display: flex;
+}
