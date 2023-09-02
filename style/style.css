@@ -1,20 +1,23 @@
-*{
-    background-color: rgb(39, 39, 39);
+html{
+    color: rgb(117, 117, 117);
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
 }
 
 div.jogo{
-    display: inline;
-    margin: auto;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
+    display: block;
 }
 
 .click{
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
     background-color: rgb(117, 117, 117);
 }
 
 .quadro{
     display: flex;
 }
+

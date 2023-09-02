@@ -19,6 +19,6 @@ function marcar(id){
     else localStorage.setItem("jogador", "X");
     jogo = jogo.substring(0, Number(id) - 1) + jogador + jogo .substring(Number(id));
     localStorage.setItem("jogo", jogo);
-    }
-    
+
+}
 }
