@@ -1,5 +1,5 @@
 html{
-    color: rgb(117, 117, 117);
+    color: white;
     background-color: black;
     display: flex;
     justify-content: center;
@@ -9,6 +9,10 @@ html{
 div.jogo{
     text-align: center;
     display: block;
+    background-color: rgb(119, 127, 134);
+    padding: 30px 30px;
+    border-radius: 3px;
+    border: solid 2px white;
 }
 
 .click{
@@ -21,3 +25,8 @@ div.jogo{
     display: flex;
 }
 
+button.zerar{
+    width: 80px;
+    height: 30px;
+    background-color: rgb(117, 117, 117);
+}
